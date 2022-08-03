@@ -1,5 +1,5 @@
 
-# JRDB-Dataset-Supervised
+# Self-supervised_Real_Dataset
 
 ### Dependencies
 cuda_10.2 <br/>
