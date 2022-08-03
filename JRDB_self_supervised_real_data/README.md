@@ -2,7 +2,7 @@
 # JRDB-Dataset-Supervised
 
 ### Dependencies
-cuda_10.0 <br/>
+cuda_10.2 <br/>
 cudnn_v7.6.5
 
 ### Environmental setup
