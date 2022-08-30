@@ -1,10 +1,10 @@
 
 ### You have already done the following steps in JRDB_self_supervised_real_data Folder
-#### Dependencies
-#### Environmental setup
-#### Activate Enviroment and Install a pakage
-#### Download Data:
-#### Data Preparation:
+##### Dependencies
+##### Environmental setup
+##### Activate Enviroment and Install a pakage
+##### Download Data:
+##### Data Preparation:
 
 
 ### Download Weights:
@@ -29,7 +29,7 @@ python -u eval_seq-ss.py
 
 ### Traning:
 You can train with main.py
-Note: it takes around 10 to 15 epochs to get the desires results. you will get the weights on every epoch.
+Note: it takes around 2 to 5 epochs to get the desires results. you will get the weights on every epoch.
 
 ```
 python -u main.py
