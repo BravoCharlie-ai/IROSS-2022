@@ -36,10 +36,12 @@ python -u prepare_dataset.py
 
 [Download_Weights](https://drive.google.com/file/d/1A52WxMKAxnHaVpCAvhXoNHonq8IZcCRQ/view?usp=sharing)
 
+File name: SS3D_MOT_self_supervised_weights.zip
 
 ### Download Validation Lables:
 
 [Download_validation_lables](https://drive.google.com/drive/folders/1Y_lv_JI7xsaLDQBvSB7gZ0ThMZ7mrviF?usp=sharing) 
+
 
 ### Update config file:
 open config file, edit paths to root_dir, train_label_dir, test_label_dir, val_label_dir, load_weights, val_prediction_dir
